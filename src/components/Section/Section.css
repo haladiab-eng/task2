@@ -1,0 +1,48 @@
+
+.all .content{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+
+}
+.all .content .three{
+    border:2px solid gray;
+    width: 240px;
+  
+  
+}
+
+.all .content .three .yyy{
+ display: flex;
+
+  
+}
+.all .content .three .yyy img{
+ padding: 15px;
+}
+
+
+.all .content .one .bloog{
+    background-color: #f35525;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: -278px;
+    margin-bottom: -30px;
+
+}
+img .blog{
+    width: 250px;
+}
+
+hr{
+    margin: 10px;
+    border: 1px solid gray;
+    width: 200px;
+}
+
+
+
+
+

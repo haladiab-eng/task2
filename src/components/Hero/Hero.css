@@ -1,0 +1,33 @@
+.home{
+    background: url('../../assets/images/logo.jpg') no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    min-height: 100vh;
+    background-position: center;
+
+
+}
+.home .content{
+    max-width: 60rem;
+    color: black;
+    margin-left:24rem;
+
+}
+.home .content h3{
+      padding: 0.5rem;
+    border: 1px solid white;
+    background-color: #eee;
+}
+.home span{
+    color: #f35525;
+}
+.home .content p{
+    max-width: 10rem;
+    font-size: 2rem;
+    font-weight:bolder;
+    line-height: 1.5;
+    padding: 1rem 0;
+    color: #eee;
+    
+}
